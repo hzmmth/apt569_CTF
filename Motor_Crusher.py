@@ -1,7 +1,9 @@
 import logging
 import time
 
-# https://github.com/hzmmth/apt569/Motor_Crusher.py
+# https://github.com/hzmmth/apt569_CTF/blob/main/Motor_Crusher.py
+
+# https://github.com/hzmmth/apt569_CTF/blob/main/Motor_Crusher.py
 
 logging.basicConfig(filename='Motor_Crusher.log',
                     level=logging.INFO,
@@ -22,6 +24,10 @@ def destroy_motor():
 
 if __name__ == "__main__":
     destroy_motor()
+
+
+# https://github.com/hzmmth/apt569_CTF/blob/main/Motor_Crusher.py
+
 
 # https://github.com/hzmmth/apt569/Motor_Crusher.py
 
