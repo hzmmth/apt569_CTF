@@ -2,7 +2,7 @@
 CTF challenge scripts simulating motor shutdown malware and mitigation.
 
 - `Motor_Crusher.py`: Simulates the attack by counting down and disabling the engine.
-- `stop_attack.py`: Obfuscated script to safely neutralize the malware and reveal the final flag.
+- `stop_attack.py`  :  neutralize the malware.
 
 ## Usage
 
