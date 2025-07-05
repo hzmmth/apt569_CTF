@@ -27,8 +27,3 @@ if __name__ == "__main__":
 
 
 # https://github.com/hzmmth/apt569_CTF/blob/main/Motor_Crusher.py
-
-
-# https://github.com/hzmmth/apt569/Motor_Crusher.py
-
-# https://github.com/hzmmth/apt569/Motor_Crusher.py
